@@ -1,0 +1,7 @@
+<Resource name="jdbc/AdarshDB"
+auth="Container"
+type = "javax.sql.DataSource"
+driverClassName="jdbc:oracle:thin:@localhost:1521:orcl"
+username="c##adarsh16"
+password="Cogent123"
+/>
